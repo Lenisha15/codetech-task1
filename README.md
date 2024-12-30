@@ -12,16 +12,20 @@ Features:
 Input Numbers:
 The user is prompted to enter two numeric values.
 The program validates the input to ensure it's numeric.
+
 Choose Operation:
 The user selects one of the following operations:
 Addition 
 Subtraction
 Multiplication
 Division
+
 Perform Calculation:
 Based on the selected operation, the program performs the calculation.
+
 Display Results:
 The program outputs the result of the calculation.
 Handles special cases like division by zero gracefully.
+
 Repeat or Exit:
 The user can choose to perform another calculation or exit the program.
