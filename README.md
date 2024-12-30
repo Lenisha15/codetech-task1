@@ -6,7 +6,9 @@ Duration: Dec 20,2024 to Jan 20,2025
 
 Overview: Basic Calculator Program
 This Python program is designed to function as a simple calculator. It provides an interactive way for users to perform basic arithmetic operations. Below are the main features and flow of the program:
+
 Features:
+
 Input Numbers:
 The user is prompted to enter two numeric values.
 The program validates the input to ensure it's numeric.
